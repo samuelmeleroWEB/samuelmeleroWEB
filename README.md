@@ -70,9 +70,7 @@ const samuel = {
 
 <div align="center">
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelmeleroWEB&show_icons=true&theme=dark&hide_border=true&bg_color=080808&title_color=39FF14&icon_color=39FF14&text_color=F0EDE6)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmeleroWEB&layout=compact&theme=dark&hide_border=true&bg_color=080808&title_color=39FF14&text_color=F0EDE6)
+![](https://komarev.com/ghpvc/?username=samuelmeleroWEB&color=39FF14&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
