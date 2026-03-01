@@ -58,10 +58,10 @@ const samuel = {
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | 🎬 [Gestión de Cine](https://github.com/samuelmeleroWEB/Cineverse)) | Plataforma de administración de salas, películas y reservas | React · TypeScript · Node.js · MongoDB |
-| 🍽️ [Restaurant Manager](https://github.com/samuelmeleroWEB/restaurant-manager)) | Sistema de gestión de mesas, pedidos y carta | Angular · Node.js · MongoDB |
+| 🍽️ [Restaurant Manager](https://github.com/samuelmeleroWEB/restaurant-manager)) | Sistema de gestión de mesas, pedidos y carta | React · Node.js · MongoDB |
 | 🌤️ [Weather App](https://github.com/samuelmeleroWEB/weather-app)) | App del tiempo con geolocalización y previsión 7 días | React · TypeScript · API REST |
-| 📅 [Planificador de Día](https://github.com/samuelmeleroWEB/ReminderCalendar)) | Herramienta de planificación diaria con tareas y prioridades | React · TypeScript · SCSS |
-| 🗓️ [Organizador de Día](https://github.com/samuelmeleroWEB/organizator-web)) | App de organización personal con recordatorios | Angular · TypeScript · SCSS |
+| 📅 [Reminder Calendar](https://github.com/samuelmeleroWEB/ReminderCalendar)) | Herramienta de planificación diaria con tareas y prioridades | Angular · TypeScript · SCSS |
+| 🗓️ [Organizador de Día](https://github.com/samuelmeleroWEB/organizator-web)) | App de organización personal con recordatorios | Next.JS · TypeScript · Tailwind css |
 | 💼 [Portfolio Personal](https://github.com/samuelmeleroWEB/portfolio) | Portfolio con diseño terminal futurista y animaciones | React · TypeScript · SCSS · Framer Motion |
 
 ---
