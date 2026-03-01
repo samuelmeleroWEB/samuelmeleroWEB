@@ -3,8 +3,8 @@
 # Hey, soy Samuel Melero 👋
 ### Desarrollador Full Stack · Código limpio y escalable
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelmelero.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmelero)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliosamuelmelero.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-melero-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelmelero98@gmail.com)
 
 </div>
@@ -21,7 +21,7 @@ const samuel = {
   stack: ["React", "Angular", "TypeScript", "Node.js", "MongoDB"],
   enfoque: "Código limpio, escalable y mantenible",
   buscando: "Primera oportunidad profesional en desarrollo web",
-  ubicacion: "Córdoba, España 🇪🇸"
+  ubicacion: "Córdoba, España"
 };
 ```
 
