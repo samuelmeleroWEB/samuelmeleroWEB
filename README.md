@@ -66,13 +66,14 @@ const samuel = {
 
 ---
 
-## Estadísticas
+## Objetivos 2026
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=samuelmeleroWEB&color=39FF14&style=for-the-badge&label=VISITAS+AL+PERFIL)
-
-</div>
+| Meta | Estado |
+|------|--------|
+| 🚀 Completar 100 proyectos | 🔄 En progreso |
+| ☕ Aprender Java y Spring Boot | 📚 Aprendiendo |
+| 🗄️ Aprender MySQL | 📚 Aprendiendo |
+| 🐍 Aprender Python | 📚 Pendiente |
 
 ---
 
