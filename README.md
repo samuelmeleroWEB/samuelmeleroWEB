@@ -70,9 +70,9 @@ const samuel = {
 
 | Meta | Estado |
 |------|--------|
-| 🚀 Completar 100 proyectos | 🔄 En progreso |
-| ☕ Aprender Java y Spring Boot | 📚 Aprendiendo |
-| 🗄️ Aprender MySQL | 📚 Aprendiendo |
+| 🚀 Completar 50 proyectos | 🔄 En progreso | 6/50
+| ☕ Aprender Java y Spring Boot | 📚 Aprendiendo | 30%
+| 🗄️ Aprender MySQL | 📚 Aprendiendo | 25%
 | 🐍 Aprender Python | 📚 Pendiente |
 
 ---
