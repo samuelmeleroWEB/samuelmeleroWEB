@@ -64,16 +64,6 @@ const samuel = {
 | 🗓️ [Organizador de Día](https://github.com/samuelmeleroWEB/organizator-web)) | App de organización personal con recordatorios | Next.JS · TypeScript · Tailwind css |
 | 💼 [Portfolio Personal](https://github.com/samuelmeleroWEB/portfolio) | Portfolio con diseño terminal futurista y animaciones | React · TypeScript · SCSS · Framer Motion |
 
----
-
-## Objetivos 2026
-
-| Meta | Estado |
-|------|--------|
-| 🚀 Completar 50 proyectos | 🔄 En progreso - 6/50  | 
-| ☕ Aprender Java y Spring Boot | 📚 Aprendiendo - 30% | 
-| 🗄️ Aprender MySQL | 📚 Aprendiendo- 25% |  
-| 🐍 Aprender Python | 📚 Pendiente |
 
 ---
 
