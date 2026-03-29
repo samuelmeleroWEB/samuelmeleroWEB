@@ -20,7 +20,7 @@ Actualmente en búsqueda activa de mi primer reto profesional.
 const samuel = {
   stack: ["React", "Angular", "TypeScript", "Node.js", "MongoDB"],
   enfoque: "Código limpio, escalable y mantenible",
-  buscando: "Primera oportunidad profesional en desarrollo web",
+  buscando: "Oportunidad profesional en desarrollo web",
   ubicacion: "Córdoba, España"
 };
 ```
