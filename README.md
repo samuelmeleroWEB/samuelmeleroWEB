@@ -18,7 +18,7 @@ Desarrollador Full Stack apasionado por construir productos web completos, desde
 const samuel = {
   stack: ["React", "Angular", "Next.js", "TypeScript", "Node.js", "MongoDB", "MySQL"],
   enfoque: "Código limpio, escalable y mantenible",
-  buscando: "Primer reto profesional en desarrollo web",
+  buscando: "Empleo como profesional en desarrollo web",
   ubicacion: "Córdoba, España",
   abierto_a: "Remoto · Híbrido · Presencial"
 };
@@ -70,15 +70,17 @@ const samuel = {
 
 ---
 
-## Objetivos 2026
+## Estadísticas de GitHub
 
-| Meta | Estado |
-|------|--------|
-| 💼 Conseguir mi primer empleo como desarrollador | 🔄 En progreso |
-| 🚀 Completar 100 proyectos | 🔄 En progreso |
-| ☕ Aprender Java y Spring Boot | 📚 Pendiente |
-| 🐍 Aprender Python | 📚 Pendiente |
-| 🗄️ Aprender MySQL | ✅ Completado |
+<div align="center">
+
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelmeleroWEB&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmeleroWEB&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelmeleroWEB&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
 
 ---
 
