@@ -70,12 +70,13 @@ const samuel = {
 
 ---
 
-## Mini Snake
+## Estadísticas de GitHub
 
 <div align="center">
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=samuelmeleroWEB&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-![Snake](https://raw.githubusercontent.com/samuelmeleroWEB/samuelmeleroWEB/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelmeleroWEB&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
 </div>
 
