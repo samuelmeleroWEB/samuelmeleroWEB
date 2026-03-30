@@ -74,7 +74,7 @@ const samuel = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=samuelmeleroWEB&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=86400)
+![](https://komarev.com/ghpvc/?username=samuelmeleroWEB&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
