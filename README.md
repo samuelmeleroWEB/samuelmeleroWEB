@@ -69,7 +69,13 @@ const samuel = {
 | 💼 [Portfolio Personal](https://github.com/samuelmeleroWEB/portfolio) | Portfolio con diseño terminal futurista, animaciones y formulario funcional | React · TypeScript · SCSS · Framer Motion |
 
 ---
+## Estadísticas de GitHub
 
+<div align="center">
+
+![Samuel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelmeleroWEB&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+
+</div>
 ## Estadísticas de GitHub
 
 <div align="center">
