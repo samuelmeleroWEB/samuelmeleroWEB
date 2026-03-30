@@ -70,7 +70,7 @@ const samuel = {
 
 ---
 
-## Estadísticas de GitHub
+## Mini Snake
 
 <div align="center">
 
